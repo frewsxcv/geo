@@ -23,5 +23,9 @@ pub trait Distance<F, Origin, Destination> {
     /// // See the documentation for each metric space for details.
     /// assert_eq!(Haversine.distance(p1, p2).round(), 222_390.0);
     /// ```
+    ///
+    /// # Interactive Examples
+    ///
+    /// <iframe src="https://frewsxcv.github.io/geo-doc-examples/index.html" width="600px" height="400px" frameBorder=0 />
     fn distance(&self, origin: Origin, destination: Destination) -> F;
 }
