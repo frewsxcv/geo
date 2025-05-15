@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":["ToGeoCoord","ToGeoGeometry","ToGeoGeometryCollection","ToGeoLine","ToGeoLineString","ToGeoMultiLineString","ToGeoMultiPoint","ToGeoMultiPolygon","ToGeoPoint","ToGeoPolygon","ToGeoRect","ToGeoTriangle"]};

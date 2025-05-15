@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["LineOrPoint"],"struct":["Intersections","SweepPoint"],"trait":["Cross"]};

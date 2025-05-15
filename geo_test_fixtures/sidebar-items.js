@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["baton_rouge","east_baton_rouge","file","louisiana","multi_polygon","nl_plots_epsg_28992","nl_plots_wgs84","nl_zones","norway_concave_hull","norway_convex_hull","norway_main","norway_nonconvex_hull","poly1","poly1_hull","poly2","poly2_hull","poly_in_ring","polygon","ring","shell","vw_orig","vw_simplified"]};

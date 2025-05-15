@@ -1,0 +1,1 @@
+searchState.loadedDescShard("geo_postgis", 0, "Conversion between <code>geo-types</code> and <code>postgis</code> types.\nCreates geometry from a PostGIS type.\nConverts geometry to a PostGIS type.\nConverts this WGS84 geometry to a PostGIS type.\nConverts this WGS84 geometry to a PostGIS type.\nConverts this geometry to a PostGIS type, using the …")
